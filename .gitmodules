@@ -1,0 +1,201 @@
+[submodule "assets/ae2fc"]
+	path = assets/ae2fc
+	url = https://github.com/RevivalHyperborea/ae2fc
+[submodule "assets/ae2stuff"]
+	path = assets/ae2stuff
+	url = https://github.com/RevivalHyperborea/ae2stuff
+[submodule "assets/applecore"]
+	path = assets/applecore
+	url = https://github.com/RevivalHyperborea/applecore
+[submodule "assets/appliedenergistics2"]
+	path = assets/appliedenergistics2
+	url = https://github.com/RevivalHyperborea/appliedenergistics2
+[submodule "assets/architecturecraft"]
+	path = assets/architecturecraft
+	url = https://github.com/RevivalHyperborea/architecturecraft
+[submodule "assets/baubles"]
+	path = assets/baubles
+	url = https://github.com/RevivalHyperborea/baubles
+[submodule "assets/betterbuilderswands"]
+	path = assets/betterbuilderswands
+	url = https://github.com/RevivalHyperborea/betterbuilderswands
+[submodule "assets/betterfoliage"]
+	path = assets/betterfoliage
+	url = https://github.com/RevivalHyperborea/betterfoliage
+[submodule "assets/bibliocraft"]
+	path = assets/bibliocraft
+	url = https://github.com/RevivalHyperborea/bibliocraft
+[submodule "assets/bpp"]
+	path = assets/bpp
+	url = https://github.com/RevivalHyperborea/bpp
+[submodule "assets/buildcraft"]
+	path = assets/buildcraft
+	url = https://github.com/RevivalHyperborea/buildcraft
+[submodule "assets/buildcraftbuilders"]
+	path = assets/buildcraftbuilders
+	url = https://github.com/RevivalHyperborea/buildcraftbuilders
+[submodule "assets/buildcraftcore"]
+	path = assets/buildcraftcore
+	url = https://github.com/RevivalHyperborea/buildcraftcore
+[submodule "assets/buildcraftsilicon"]
+	path = assets/buildcraftsilicon
+	url = https://github.com/RevivalHyperborea/buildcraftsilicon
+[submodule "assets/buildcrafttransport"]
+	path = assets/buildcrafttransport
+	url = https://github.com/RevivalHyperborea/buildcrafttransport
+[submodule "assets/carpentersblocks"]
+	path = assets/carpentersblocks
+	url = https://github.com/RevivalHyperborea/carpentersblocks
+[submodule "assets/catwalkmod"]
+	path = assets/catwalkmod
+	url = https://github.com/RevivalHyperborea/catwalkmod
+[submodule "assets/catwalks"]
+	path = assets/catwalks
+	url = https://github.com/RevivalHyperborea/catwalks
+[submodule "assets/chestup"]
+	path = assets/chestup
+	url = https://github.com/RevivalHyperborea/chestup
+[submodule "assets/chickenchunks"]
+	path = assets/chickenchunks
+	url = https://github.com/RevivalHyperborea/chickenchunks
+[submodule "assets/chisel"]
+	path = assets/chisel
+	url = https://github.com/RevivalHyperborea/chisel
+[submodule "assets/cofh"]
+	path = assets/cofh
+	url = https://github.com/RevivalHyperborea/cofh
+[submodule "assets/compactkineticgenerators"]
+	path = assets/compactkineticgenerators
+	url = https://github.com/RevivalHyperborea/compactkineticgenerators
+[submodule "assets/computronics"]
+	path = assets/computronics
+	url = https://github.com/RevivalHyperborea/computronics
+[submodule "assets/customnpcs"]
+	path = assets/customnpcs
+	url = https://github.com/RevivalHyperborea/customnpcs
+[submodule "assets/draconicevolution"]
+	path = assets/draconicevolution
+	url = https://github.com/RevivalHyperborea/draconicevolution
+[submodule "assets/endercore"]
+	path = assets/endercore
+	url = https://github.com/RevivalHyperborea/endercore
+[submodule "assets/enderio"]
+	path = assets/enderio
+	url = https://github.com/RevivalHyperborea/enderio
+[submodule "assets/extracells"]
+	path = assets/extracells
+	url = https://github.com/RevivalHyperborea/extracells
+[submodule "assets/extrautils"]
+	path = assets/extrautils
+	url = https://github.com/RevivalHyperborea/extrautils
+[submodule "assets/fml"]
+	path = assets/fml
+	url = https://github.com/RevivalHyperborea/fml
+[submodule "assets/forestry"]
+	path = assets/forestry
+	url = https://github.com/RevivalHyperborea/forestry
+[submodule "assets/ftbl"]
+	path = assets/ftbl
+	url = https://github.com/RevivalHyperborea/ftbl
+[submodule "assets/galacticraftasteroids"]
+	path = assets/galacticraftasteroids
+	url = https://github.com/RevivalHyperborea/galacticraftasteroids
+[submodule "assets/galacticraftcore"]
+	path = assets/galacticraftcore
+	url = https://github.com/RevivalHyperborea/galacticraftcore
+[submodule "assets/galacticraftmars"]
+	path = assets/galacticraftmars
+	url = https://github.com/RevivalHyperborea/galacticraftmars
+[submodule "assets/galacticraftmoon"]
+	path = assets/galacticraftmoon
+	url = https://github.com/RevivalHyperborea/galacticraftmoon
+[submodule "assets/galaxyspace"]
+	path = assets/galaxyspace
+	url = https://github.com/RevivalHyperborea/galaxyspace
+[submodule "assets/gcewing_lighting"]
+	path = assets/gcewing_lighting
+	url = https://github.com/RevivalHyperborea/gcewing_lighting
+[submodule "assets/gcewing_lighting_ic2"]
+	path = assets/gcewing_lighting_ic2
+	url = https://github.com/RevivalHyperborea/gcewing_lighting_ic2
+[submodule "assets/gendustry"]
+	path = assets/gendustry
+	url = https://github.com/RevivalHyperborea/gendustry
+[submodule "assets/gravisuite"]
+	path = assets/gravisuite
+	url = https://github.com/RevivalHyperborea/gravisuite
+[submodule "assets/gregtech"]
+	path = assets/gregtech
+	url = https://github.com/RevivalHyperborea/gregtech
+[submodule "assets/ic2"]
+	path = assets/ic2
+	url = https://github.com/RevivalHyperborea/ic2
+[submodule "assets/impact"]
+	path = assets/impact
+	url = https://github.com/RevivalHyperborea/impact
+[submodule "assets/impactapi"]
+	path = assets/impactapi
+	url = https://github.com/RevivalHyperborea/impactapi
+[submodule "assets/inventorytweaks"]
+	path = assets/inventorytweaks
+	url = https://github.com/RevivalHyperborea/inventorytweaks
+[submodule "assets/jabba"]
+	path = assets/jabba
+	url = https://github.com/RevivalHyperborea/jabba
+[submodule "assets/logisticspipes"]
+	path = assets/logisticspipes
+	url = https://github.com/RevivalHyperborea/logisticspipes
+[submodule "assets/malisisdoors"]
+	path = assets/malisisdoors
+	url = https://github.com/RevivalHyperborea/malisisdoors
+[submodule "assets/microblock"]
+	path = assets/microblock
+	url = https://github.com/RevivalHyperborea/microblock
+[submodule "assets/minecraft"]
+	path = assets/minecraft
+	url = https://github.com/RevivalHyperborea/minecraft
+[submodule "assets/mrtjpcore"]
+	path = assets/mrtjpcore
+	url = https://github.com/RevivalHyperborea/mrtjpcore
+[submodule "assets/nei"]
+	path = assets/nei
+	url = https://github.com/RevivalHyperborea/nei
+[submodule "assets/nuclearcontrol"]
+	path = assets/nuclearcontrol
+	url = https://github.com/RevivalHyperborea/nuclearcontrol
+[submodule "assets/openblocks"]
+	path = assets/openblocks
+	url = https://github.com/RevivalHyperborea/openblocks
+[submodule "assets/opencomputers"]
+	path = assets/opencomputers
+	url = https://github.com/RevivalHyperborea/opencomputers
+[submodule "assets/projectred"]
+	path = assets/projectred
+	url = https://github.com/RevivalHyperborea/projectred
+[submodule "assets/railcraft"]
+	path = assets/railcraft
+	url = https://github.com/RevivalHyperborea/railcraft
+[submodule "assets/randomthings"]
+	path = assets/randomthings
+	url = https://github.com/RevivalHyperborea/randomthings
+[submodule "assets/stevesfactory"]
+	path = assets/stevesfactory
+	url = https://github.com/RevivalHyperborea/stevesfactory
+[submodule "assets/storagedrawers"]
+	path = assets/storagedrawers
+	url = https://github.com/RevivalHyperborea/storagedrawers
+[submodule "assets/tectech"]
+	path = assets/tectech
+	url = https://github.com/RevivalHyperborea/tectech
+[submodule "assets/undergroundbiomes"]
+	path = assets/undergroundbiomes
+	url = https://github.com/RevivalHyperborea/undergroundbiomes
+[submodule "assets/wrcbe_core"]
+	path = assets/wrcbe_core
+	url = https://github.com/RevivalHyperborea/wrcbe_core
+[submodule "assets/wrcbe_logic"]
+	path = assets/wrcbe_logic
+	url = https://github.com/RevivalHyperborea/wrcbe_logic
+[submodule "assets/ztones"]
+	path = assets/ztones
+	url = https://github.com/RevivalHyperborea/ztones
